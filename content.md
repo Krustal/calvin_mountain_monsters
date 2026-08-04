@@ -36,7 +36,7 @@ A small black haired person made out of molten magma that can’t carry weapons.
 
 **AC** 18 **HP** 45 **ATK** 1 Kick +1 (1d10) or 1 Punch +0 (1d8, Magma Residue) **MV** 2xFar **S** +3 **D** +4 **C** -1 **I** -2 **W** -3 **Ch** +1 **AL** C **LV** 8
 
-Magma Residue. Babbling rolls a DC 13 Int to inflict 1d6 dmg/3 rounds
+**Magma Residue.** Babbling rolls a DC 13 Int to inflict 1d6 dmg/3 rounds
 
 ##### Basilisk
 Take from book
@@ -46,11 +46,11 @@ A 80 tentacled squid like creature with tentacles on its head and 18 eyes. Typic
 
 **AC** 15 **HP** 20 **ATK** 1 Tentacle Wrap +0 (0, Tentacle Wrap) **MV** Far (swimming) Close (land) **S** +1 **D** +1 **C** -1 **I** +2 **W** -3 **Ch** +1 **AL** N **LV** 5
 
-Creeping. Adv. on all Sneak based actions
+**Creeping.** Adv. on all Sneak based actions
 
-Tentacle Wrap. Wraps you in tentacles and renders you immobile. After 2 turns you take 1d4 dmg every turn due to toxins. DC 14 Strength to escape
+**Tentacle Wrap.** Wraps you in tentacles and renders you immobile. After 2 turns you take 1d4 dmg every turn due to toxins. DC 14 Strength to escape
 
-Gills. Can always breathe in water. After 3 rounds on land it takes 1d8 dmg each round.
+**Gills.** Can always breathe in water. After 3 rounds on land it takes 1d8 dmg each round.
 
 ##### Chowney
 1,000 of them serve in the armies of the Babling. However; they still appear as individuals and small groups.
@@ -61,7 +61,7 @@ An undead rollypolly who has mastered the forbidden and ancient art of lichdom. 
 
 **AC** 15 **HP** 10 **ATK** 1 Soul Suck +0 **MV** Near **S** -1 **D** +1 **C** +4 **I** +1 **W** -1 **Ch** +3 **AL** N **LV** 2
 
-Soul Suck. On hit instant death and DC 11 or become undead servant
+**Soul Suck.** On hit instant death and DC 11 or become undead servant
 
 ##### Earth Crab
 A four foot tall crab that's shell is made from rock and has the strength to break bones in its claws. Able to survive on land but cannot breath in water. Found in the mountains.
@@ -79,21 +79,21 @@ A tiny purple blob of slime with no eyes
 
 **AC** 8 **HP** 20 **ATK** Copy Monster **MV** Close **S** +3 **D** -1 **C** -2 **I** +1 **W** -2 **Ch** -3 **AL** N **LV** 6
 
-Copy Monster. Gains the abilities, and stats of another creature
+**Copy Monster.** Gains the abilities, and stats of another creature
 
 ##### Enniel, Leader
 A tiny purple blob of slime with no eyes
 
 **AC** 14 **HP** 200 **ATK** Copy Monster **MV** Close **S** -1 **D** +0 **C** +4 **I** -1 **W** +3 **Ch** +3 **AL** N **LV** 6
 
-Copy Monster. Gains the health, abilities, and stats of another creature
+**Copy Monster.** Gains the health, abilities, and stats of another creature
 
 ##### Fungoul
 A mushroom as tall as a man with a face and arms. 
 
 **AC** 12 **HP** 10 **ATK** 2 Root Wave (1d8, Bite) **MV** None **S** +2 **D** -2 **C** +1 **I** -1 **W** -2 **Ch** +1 **AL** C **LV** 2
 
-Bite. If both Root Waves hit then bite auto hits for 1d10 dmg and inflicts 1d6/round for 4 rounds due to venom. DC 12 Con to resist venom
+**Bite.** If both Root Waves hit then bite auto hits for 1d10 dmg and inflicts 1d6/round for 4 rounds due to venom. DC 12 Con to resist venom
 
 \column
 
@@ -123,18 +123,18 @@ A solid block of ice shattered and reformed in the shape of a humanoid.
 
 **AC** 15 **HP** 53/86 **ATK** 1 Cold Touch +2 (1d8/1d10, Cold Touch) **MV** Double Near (swim) **S** +4 **D** +2 **C** +2 **I** -2 **W** +1 **Ch** -2 **AL** N **LV** 6/9
 
-Impervious. Only damaged by magical sources.  
+**Impervious.** Only damaged by magical sources.  
 
-Refreeze. Ice Elemental chooses to shatter and reform as 2 smaller elementals with half the health of the original.
+**Refreeze.** Ice Elemental chooses to shatter and reform as 2 smaller elementals with half the health of the original.
 
-Cold Touch. Ice Elemental touches a character, encasing them in ice (immobile). Each round DC 14 Strength or take 1d4 dmg. After 6 rounds if you have not escaped the ice melts.
+**Cold Touch.** Ice Elemental touches a character, encasing them in ice (immobile). Each round DC 14 Strength or take 1d4 dmg. After 6 rounds if you have not escaped the ice melts.
 
 ##### Leaf Fairy
 A small fairy that has horns made of sticks and large leaf wings. Found in groups of three.
 
 **AC** 12 **HP** 2 **ATK** 1 Bite +2 (1d4) or 1 Plant Magic **MV** Far (flying) Near (ground) **S** +1 **D** +3 **C** -1 **I** +4 **W** +2 **Ch** -4 **AL** L **LV** 2
 
-Plant Magic. Use any plant based spells from existing material. A custom booklet is coming soon.
+**Plant Magic.** Use any plant based spells from existing material. A custom booklet is coming soon.
 
 \column
 
@@ -153,11 +153,11 @@ A giant worm that’s twice the size of a small island, fangs the size of a skys
 
 **AC** 12 **HP** 40 **ATK** 1 Bone Crunch +0 (1d20, Consume) **MV** Far **S** +6 **D** -3 **C** +1 **I** +2 **W** +1 **Ch** +0 **AL** C **LV** 100
 
-Consume. DC 12 STR or you are swallowed and enter the cavernous inside of the Mig Fig. 1d8 from magma at the core of the creature.
+**Consume.** DC 12 STR or you are swallowed and enter the cavernous inside of the Mig Fig. 1d8 from magma at the core of the creature.
 
-Weak Spot. Each Weak Spot reduces the overall Mig Figs health by 40 when defeated.
+**Weak Spot.** Each Weak Spot reduces the overall Mig Figs health by 40 when defeated.
 
-Secret. The Mig Fig is not truly a beast but the Enniel
+**Secret.** The Mig Fig is not truly a beast but the Enniel
 
 \page
 
@@ -173,7 +173,7 @@ A small footlong worm with 4 teeth that are prone to breaking and getting lodged
 
 **AC** 12 **HP** 5 **ATK** 1 Bite +1 (1d4+3, Brittle Teeth) **S** +3 **D** -1 **C** +1 **I** +0 **W** -3 **Ch** -1 **AL** N **LV** 1
 
-Brittle Teeth. Mountain Worm loses 1 of 4 teeth, reducing Bite dmg by -1. The lost tooth remain in the target and the venom does 1 damage per turn until dug out (DC 13 Strength)
+**Brittle Teeth.** Mountain Worm loses 1 of 4 teeth, reducing Bite dmg by -1. The lost tooth remain in the target and the venom does 1 damage per turn until dug out (DC 13 Strength)
 
 \column
 
@@ -182,9 +182,9 @@ A water elemental cloaked in clothing and has shaped its face into a skull. It�
 
 **AC** 18 **HP** 80 **ATK** Fountain or 3 Slam (from water elemental) or Spell **MV** Far **S** +1 **D** +0 **C** +0 **I** +3 **W** +1 **Ch** +1
 
-Spellcasting. Riverling can cast almost any spell as long as it’s not fire based.
+**Spellcasting.** Riverling can cast almost any spell as long as it’s not fire based.
 
-Fountain. The target is pushed back and takes damage equal to a number of d4 based on how much it beats the targets AC. (e.g. target has AC of 12 Riverling hits it for 15, roll 3d6 dmg.)
+**Fountain.** The target is pushed back and takes damage equal to a number of d4 based on how much it beats the targets AC. (e.g. target has AC of 12 Riverling hits it for 15, roll 3d6 dmg.)
 
 ##### Rock Trampler
 A hornless bull with a longer snout and covered in rocks. It can hammer through rocks. Lives in caves.
@@ -202,9 +202,9 @@ An insect that resembles an ant with a small needle between its mandibles and a 
 
 **AC** 11 **HP** 24 **ATK** 5 Bite +0 (1d4, Venom) or 1 Molten Metal -1 (1d6) **MV** Near (ground, fly) **S** -1 **D** +2 **C** +2 **I** +2 **W** +0 **Ch** -1 **AL** N
 
-Venom. 1d4 dmg for next 2 rounds
+**Venom.** 1d4 dmg for next 2 rounds
 
-Molten Metal. The termite expells inadvertently eaten metal by super heating it and spitting it at opponents. 1d4 dmg per round for 2 rounds; after which the limb is immobilized in hardened metal.out.
+**Molten Metal.** The termite expells inadvertently eaten metal by super heating it and spitting it at opponents. 1d4 dmg per round for 2 rounds; after which the limb is immobilized in hardened metal.out.
 
 \column
 
@@ -214,6 +214,6 @@ Living snowman with four arms and legs made out of snow. Wears a pumpkin as a ha
 
 **AC** 17 **HP** 15 **ATK** 1 Freezing Finger or 1 Ice Weapon +0 (weapon dmg, Breakable Weapon) **MV** Close **S** +0 **D** -1 **C** +0 **I** +2 **W** +1 **Ch** -1 **AL** C **LV** 4
 
-Freezing Finger. A beam of snow extends from the creatures finger and creates a pile of snow that barries the target. DC 15 Str to escape or you suffocate and take 1d6 dmg.
+**Freezing Finger.** A beam of snow extends from the creatures finger and creates a pile of snow that barries the target. DC 15 Str to escape or you suffocate and take 1d6 dmg.
 
-Breakable Weapon. Ice weapons break on a nat. 1
+**Breakable Weapon.** Ice weapons break on a nat. 1
